@@ -5,7 +5,7 @@ from db_add import add
 import socket
 
 
-bot = telebot.TeleBot('1602905794:AAFj2svXMQDKydWN6LETAkTJyAoZLP6XuXw')
+bot = telebot.TeleBot('')
 line = {}
 
 
